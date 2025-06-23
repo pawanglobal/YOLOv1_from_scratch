@@ -172,3 +172,12 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+# Add to .gitignore
+**/data/            # Ignore all data directories
+*.pth               # Ignore model weights
+*.tar               # Ignore checkpoint files
+*.onnx              # Ignore ONNX exports
+__pycache__/        # Ignore Python cache
+*.jpg               # Ignore sample images
+*.png
+*.history
