@@ -219,7 +219,7 @@ Due to **limited computational resources**, a carefully curated **subset of the 
 
 ### Data Distribution Graph
    <p align="center">
-      <img src="enhanced/results/data_analysis/objects_per_class.png" alt="Image 1" title="Enhanced" width="50%"  />
+      <img src="enhanced/results/data_analysis/Objects_per_class.png" alt="Image 1" title="Enhanced" width="50%"  />
       
    </p>
    <p align="center">
