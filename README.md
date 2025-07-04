@@ -219,16 +219,16 @@ Due to **limited computational resources**, a carefully curated **subset of the 
 
 ### Data Distribution Graph
    <p align="center">
-      <img src="enhanced/data/analysis/objects_per_class.png" alt="Image 1" title="Enhanced" width="50%"  />
+      <img src="enhanced/results/data_analysis/objects_per_class.png" alt="Image 1" title="Enhanced" width="50%"  />
       
    </p>
    <p align="center">
-   <img src="enhanced/data/analysis/images_per_class_train.png" alt="Image 1" title="Enhanced" width="50%"  />
+   <img src="enhanced/results/data_analysis/images_per_class_train.png" alt="Image 1" title="Enhanced" width="50%"  />
    </p>
    </p>
    <p align="center">
-      <img src="enhanced/data/analysis/images_per_class_val.png" alt="Image 1" title="Enhanced" width="45%"  />
-      <img src="enhanced/data/analysis/images_per_class_test.png" alt="Image 1" title="Enhanced" width="45%"  />
+      <img src="enhanced/results/data_analysis/images_per_class_val.png" alt="Image 1" title="Enhanced" width="45%"  />
+      <img src="enhanced/results/data_analysis/images_per_class_test.png" alt="Image 1" title="Enhanced" width="45%"  />
    </p>
 
    `Note: Please use the full PASCAL VOC dataset for better results.`
